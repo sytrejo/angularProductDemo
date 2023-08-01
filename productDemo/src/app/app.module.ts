@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { ProductsModule } from './products/products.module';
-import { ProductDetailComponent } from './product-detail/product-detail.component';
+import { ProductDetailComponent } from './products/product-detail/product-detail.component';
 
 
 @NgModule({
